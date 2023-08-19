@@ -1,0 +1,7 @@
+Houve sim uma diferença
+
+Imagem original tem: 6.051.325 bytes ou 5.77 MB
+Imagem modificada tem: 794.732 bytes ou 776 KB
+
+Há uma diferença de 5.256.593 bytes ou 5.25 MB ou seja, a imagem modificada tem cerca de 7.5 vezes menos bytes que a original
+
